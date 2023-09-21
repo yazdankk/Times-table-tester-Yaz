@@ -1,0 +1,7 @@
+C:\Users\Littl\source\repos\Times Table Tester\obj\Debug\Times Table Tester.csproj.AssemblyReference.cache
+C:\Users\Littl\source\repos\Times Table Tester\obj\Debug\Times Table Tester.csproj.CoreCompileInputs.cache
+C:\Users\Littl\source\repos\Times Table Tester\bin\Debug\Times Table Tester.exe.config
+C:\Users\Littl\source\repos\Times Table Tester\bin\Debug\Times Table Tester.exe
+C:\Users\Littl\source\repos\Times Table Tester\bin\Debug\Times Table Tester.pdb
+C:\Users\Littl\source\repos\Times Table Tester\obj\Debug\Times Table Tester.exe
+C:\Users\Littl\source\repos\Times Table Tester\obj\Debug\Times Table Tester.pdb
